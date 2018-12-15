@@ -1,0 +1,46 @@
+baseurl = "/"
+languageCode = "en-us"
+title = "The American Statistical Association | Virginia Chapter"
+theme = "story"
+googleAnalytics = ""
+disqusShortname = ""
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+
+[permalinks]
+    post = "/:year/:month/:day/:slug/"
+
+[[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 1
+[[menu.main]]
+    name = "Officers"
+    url = "/officers/"
+    weight = 2
+[[menu.main]]
+    name = "Constitution"
+    url = "/constitution/"
+    weight = 3
+[[menu.main]]
+    name = "Membership"
+    url = "/membership/"
+    weight = 4
+
+[params]
+    description = "The American Statistical Association | Virginia Chapter"
+    subtitle = "A simple subtitle"
+    # options for highlight.js (version, additional languages, and theme)
+    highlightjsVersion = "9.12.0"
+    highlightjsCDN = "//cdnjs.cloudflare.com/ajax/libs"
+    highlightjsLang = ["r", "yaml"]
+    highlightjsTheme = "github"
+
+    MathJaxCDN = "//cdnjs.cloudflare.com/ajax/libs"
+    MathJaxVersion = "2.7.5"
+
+    [params.logo]
+    url = "logo.png"
+    width = 50
+    height = 50
+    alt = "Logo"
+
