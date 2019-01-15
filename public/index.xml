@@ -10,12 +10,123 @@
 		<updated>2018-12-15 00:00:00 &#43;0000 UTC</updated>
 		
 		<item>
+			<title>About us</title>
+			<link>/about/</link>
+			<pubDate>Sat, 15 Dec 2018 00:00:00 UTC</pubDate>
+			<author></author>
+			<guid>/about/</guid>
+			<description>
+
+
+&lt;div id=&#34;our-mission&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;Our Mission&lt;/h1&gt;
+&lt;p&gt;The purpose of our organization is to encourage the use and appreciation of Statistics and its applications, and to facilitate interaction among all persons having an interest in or being concerned with the field of Statistics.&lt;/p&gt;
+&lt;/div&gt;
+</description>
+		</item>
+		
+		<item>
+			<title>About us</title>
+			<link>/about/</link>
+			<pubDate>Sat, 15 Dec 2018 00:00:00 UTC</pubDate>
+			<author></author>
+			<guid>/about/</guid>
+			<description>
+
+&lt;h1 id=&#34;our-mission&#34;&gt;Our Mission&lt;/h1&gt;
+
+&lt;p&gt;The purpose of our organization is to encourage the use and appreciation of Statistics and its applications, and to facilitate interaction among all persons having an interest in or being concerned with the field of Statistics.&lt;/p&gt;
+</description>
+		</item>
+		
+		<item>
+			<title>About us</title>
+			<link>/search/</link>
+			<pubDate>Sat, 15 Dec 2018 00:00:00 UTC</pubDate>
+			<author></author>
+			<guid>/search/</guid>
+			<description>
+
+&lt;h1 id=&#34;our-mission&#34;&gt;Our Mission&lt;/h1&gt;
+
+&lt;p&gt;The purpose of our organization is to encourage the use and appreciation of Statistics and its applications, and to facilitate interaction among all persons having an interest in or being concerned with the field of Statistics.&lt;/p&gt;
+</description>
+		</item>
+		
+		<item>
 			<title>Coming soon</title>
 			<link>/post/2018-12-15-coming-soon/</link>
 			<pubDate>Sat, 15 Dec 2018 00:00:00 UTC</pubDate>
 			<author></author>
 			<guid>/post/2018-12-15-coming-soon/</guid>
 			<description>&lt;p&gt;This is the prototype of the web site for the Virginia chapter of American Statistical Association.&lt;/p&gt;
+</description>
+		</item>
+		
+		<item>
+			<title>Constitution</title>
+			<link>/constitution/</link>
+			<pubDate>Sat, 15 Dec 2018 00:00:00 UTC</pubDate>
+			<author></author>
+			<guid>/constitution/</guid>
+			<description>
+
+&lt;h1 id=&#34;constitution-of-the-virginia-chapter-of-the-asa&#34;&gt;CONSTITUTION OF THE VIRGINIA CHAPTER OF THE ASA&lt;/h1&gt;
+
+&lt;p&gt;Coming soon&lt;/p&gt;
+</description>
+		</item>
+		
+		<item>
+			<title>Membership</title>
+			<link>/membership/</link>
+			<pubDate>Sat, 15 Dec 2018 00:00:00 UTC</pubDate>
+			<author></author>
+			<guid>/membership/</guid>
+			<description>
+
+&lt;h1 id=&#34;how-to-become-a-member-of-virginia-asa-chapter&#34;&gt;How to become a member of Virginia ASA chapter&lt;/h1&gt;
+
+&lt;p&gt;Coming soon&lt;/p&gt;
+
+&lt;form action=&#34;https://www.paypal.com/cgi-bin/webscr&#34; method=&#34;post&#34;&gt;
+
+  &lt;!-- Identify your business so that you can collect the payments. --&gt;
+  &lt;input type=&#34;hidden&#34; name=&#34;business&#34; value=&#34;herschelgomez@xyzzyu.com&#34;&gt;
+
+  &lt;!-- Specify a Buy Now button. --&gt;
+  &lt;input type=&#34;hidden&#34; name=&#34;cmd&#34; value=&#34;_xclick&#34;&gt;
+
+  &lt;!-- Specify details about the item that buyers will purchase. --&gt;
+  &lt;input type=&#34;hidden&#34; name=&#34;item_name&#34; value=&#34;Hot Sauce-12oz. Bottle&#34;&gt;
+  &lt;input type=&#34;hidden&#34; name=&#34;amount&#34; value=&#34;5.95&#34;&gt;
+  &lt;input type=&#34;hidden&#34; name=&#34;currency_code&#34; value=&#34;USD&#34;&gt;
+
+  &lt;!-- Display the payment button. --&gt;
+  &lt;input type=&#34;image&#34; name=&#34;submit&#34; border=&#34;0&#34;
+  src=&#34;https://www.paypalobjects.com/en_US/i/btn/btn_buynow_LG.gif&#34;
+  alt=&#34;Buy Now&#34;&gt;
+  &lt;img alt=&#34;&#34; border=&#34;0&#34; width=&#34;1&#34; height=&#34;1&#34;
+  src=&#34;https://www.paypalobjects.com/en_US/i/scr/pixel.gif&#34; &gt;
+
+&lt;/form&gt;
+</description>
+		</item>
+		
+		<item>
+			<title>Officers</title>
+			<link>/officers/</link>
+			<pubDate>Sat, 15 Dec 2018 00:00:00 UTC</pubDate>
+			<author></author>
+			<guid>/officers/</guid>
+			<description>&lt;ul&gt;
+&lt;li&gt;Roy Sabo&lt;/li&gt;
+&lt;li&gt;Darcy Mays&lt;/li&gt;
+&lt;li&gt;Marco Ferreira&lt;/li&gt;
+&lt;li&gt;Dipankar Bandyopadhayay&lt;/li&gt;
+&lt;li&gt;Chaganty Rao&lt;/li&gt;
+&lt;li&gt;Edward Boone&lt;/li&gt;
+&lt;/ul&gt;
 </description>
 		</item>
 		
