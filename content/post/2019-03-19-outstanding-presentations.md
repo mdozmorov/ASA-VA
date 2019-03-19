@@ -6,7 +6,7 @@ slug: outstanding-presentations
 categories:
   - Announcement
 tags: []
-url: /post/2019-03-19-outstanding-presentations.md
+url: /post/2019-03-19-outstanding-presentations
 description: ''
 tldr: ''
 image: ''

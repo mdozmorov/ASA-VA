@@ -6,7 +6,7 @@ slug: honorary-lectures
 categories:
   - Announcement
 tags: []
-url: /post/2019-03-19-honorary-lectures.md
+url: /post/2019-03-19-honorary-lectures
 description: ''
 tldr: ''
 image: ''
