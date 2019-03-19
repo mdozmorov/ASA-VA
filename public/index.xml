@@ -6,8 +6,167 @@
 		<generator>Hugo -- gohugo.io</generator>
 		<language>en-us</language>
 		<author></author>
-		<rights>Copyright (c) 2018</rights>
-		<updated>2018-12-15 00:00:00 &#43;0000 UTC</updated>
+		<rights>Copyright (c) 2019</rights>
+		<updated>2019-03-19 00:00:00 &#43;0000 UTC</updated>
+		
+		<item>
+			<title>Honorary Guest Lecturers</title>
+			<link>/post/2019-03-19-honorary-lectures.md</link>
+			<pubDate>Tue, 19 Mar 2019 00:00:00 UTC</pubDate>
+			<author></author>
+			<guid>/post/2019-03-19-honorary-lectures.md</guid>
+			<description>
+
+&lt;h1 id=&#34;a-list-of-honorary-guest-lecturers-from-the-past-few-years&#34;&gt;A list of Honorary Guest Lecturers from the past few years:&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;2018, Ronald D. Fricker, Ph.D.&lt;/strong&gt;, Professor and Department Head, Department of Statistics, Virginia Polytechnic Institute and State University.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;2016, Karen Khafadar, Ph.D.&lt;/strong&gt;, Commonwealth Professor and Chair, Department of Statistics, University of Virginia. Title: &amp;ldquo;Detecting tiny signals in massive data from high-energy physics.&amp;rdquo;&amp;rdquo;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Experiments in high-energy physics provide terabytes of data, from which critical information about the state of matter, governed by the theory outlined in the &amp;ldquo;Standard Model&amp;rdquo;, must be extracted.  Opportunities abound for increased efficiencies in approaches to the data, from the design of experiments, to the collection of data, and finally to analysis and inference.  Due to the massive amounts of data, from various sources (different experiments from different collaborations, experiment-based simulations, etc.), new ways of analyzing the data to answer questions of interest are devised. This talk describes the framework for these experiments and illustrates methods for analyzing massive data sets from such experiments (with some mention of data sets from genomics and the Internet).&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+		</item>
+		
+		<item>
+			<title>Officers</title>
+			<link>/officers/</link>
+			<pubDate>Tue, 19 Mar 2019 00:00:00 UTC</pubDate>
+			<author></author>
+			<guid>/officers/</guid>
+			<description>&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Chair: Dipankar Bandyopadhyay, PhD.&lt;/strong&gt;, Professor, Department of Biostatistics, Virginia Commonwealth University&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Vice Chair: Marco A.R. Ferreira, Ph.D.&lt;/strong&gt;, Associate Professor, Department of Statistics, Virginia Polytechnic Institute State University&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Secretary: Roy T. Sabo, Ph.D.&lt;/strong&gt;, Associate Professor, Department of Biostatistics, Virginia Commonwealth University&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Chapter Representative: D’Arcy Mays, Ph.D.&lt;/strong&gt;, Professor, Department of Statistics and Operations Research, Virginia Commonwealth University&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+		</item>
+		
+		<item>
+			<title>Outstanding Student Presentations</title>
+			<link>/post/2019-03-19-outstanding-presentations.md</link>
+			<pubDate>Tue, 19 Mar 2019 00:00:00 UTC</pubDate>
+			<author></author>
+			<guid>/post/2019-03-19-outstanding-presentations.md</guid>
+			<description>
+
+&lt;h1 id=&#34;2018-recipients-of-the-award-for-annual-meeting-outstanding-student-presentations&#34;&gt;2018 recipients of the Award for Annual Meeting Outstanding Student Presentations&lt;/h1&gt;
+
+&lt;h3 id=&#34;mohammed-alqawba&#34;&gt;Mohammed Alqawba&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;Title:&lt;/strong&gt; Copula Based Models for Zero-Inflated Count Time Series&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Count time series data are observed in several applied disciplines such as in environmental field, biostatistics, economics, public health, and finance. In some cases, a specific count, say zero, may occur more often than usual. Overlooking the frequent occurrence of zeros could lead to false inference. In this presentation, we develop a copula-based time series model for zero-inflated counts with the presence of covariates. Zero-inflated Poisson (ZIP), zero-inflated negative Binomial (ZINB), and zero-inflated Conway-Maxwell-Poisson (ZICMP) distributed marginals will be considered, while the joint distribution is modeled under Gaussian copula with autoregression moving average (ARMA) errors. Importance sampling likelihood inference is utilized. Prediction, and forecasting are carried out in an analogous style to an ordinary ARMA model. To evaluate the proposed method, simulated and real-life data examples are provided and studied.&lt;/p&gt;
+
+&lt;h3 id=&#34;kellen-cresswell&#34;&gt;Kellen Cresswell&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;Title:&lt;/strong&gt; Detection of the 3D genomic structures using spectral clustering&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Background. Recent advances in genome sequencing have given us the ability to analyze the 3D organization of the genome. Topologically associating domains (TADs) are distinct units of the genome confined in 3D space and characterized by strong interactions among regions within them. These structures have been shown to be highly associated with regulation of gene expression, defining the identity of the cells. Despite their apparent importance, there is no consensus method for detecting TADs. Methods. We propose a novel, spectral clustering-based approach to solve this problem. Using a sliding window based on the maximum biologically possible TAD size, we move along the diagonal of the matrix performing spectral clustering. The number of clusters in each window is chosen by finding the number of clusters that maximizes the average silhouette score. Silhouette score is a method for measuring the level of connectivity within a TAD while penalizing for high connectivity between TADs. Results. We show this method is robust to issues specific to 3D sequencing data such as sparsity, sequencing depth and the resolution of the data. We also show that by using a windowed approach, we transform spectral clustering from a problem with cubic computational complexity to one with linear complexity. The method is extended to allow for hierarchical clustering and the separation of TADs into smaller sub-TADs enclosed in large meta-TADs. Finally, the biological relevance is tested based on the proximity of boundaries to known epigenomic marks and transcription factor binding sites. Conclusions. Current methods for defining the fundamental 3D units of the genome, such as TADs, remain to be improved. We demonstrate that treating chromatin interaction data as a graph clustering problem improves robustness of TAD boundary detection in terms of sensitivity to noise, sparsity, sequencing depth of the data. We present a fast and accurate R package SpectralTAD that outperforms other TAD callers in detecting biologically relevant TAD boundaries.&lt;/p&gt;
+</description>
+		</item>
+		
+		<item>
+			<title>Constitution</title>
+			<link>/constitution/</link>
+			<pubDate>Mon, 11 Feb 2019 00:00:00 UTC</pubDate>
+			<author></author>
+			<guid>/constitution/</guid>
+			<description>
+
+&lt;h1 id=&#34;constitution-of-the-virginia-chapter-of-the-the-american-statistical-association&#34;&gt;CONSTITUTION OF THE VIRGINIA CHAPTER OF THE THE AMERICAN STATISTICAL ASSOCIATION&lt;/h1&gt;
+
+&lt;h2 id=&#34;article-1-name&#34;&gt;ARTICLE 1 - NAME&lt;/h2&gt;
+
+&lt;p&gt;This organization shall be known as the Virginia Chapter of The American Statistical Association (ASA), hereafter referred to as the “Chapter”.&lt;/p&gt;
+
+&lt;h2 id=&#34;article-ii-purpose&#34;&gt;ARTICLE II - PURPOSE&lt;/h2&gt;
+
+&lt;p&gt;The purpose of this organization shall be to foster in the broadest manner statistics and statistical applications, and to promote unity and effectiveness of effort among all groups in the Virginia area having an interest in or being concerned with statistics.&lt;/p&gt;
+
+&lt;h2 id=&#34;article-iii-membership&#34;&gt;ARTICLE III – MEMBERSHIP&lt;/h2&gt;
+
+&lt;p&gt;Any full member of the American Statistical Association (ASA) may become a member of the Chapter upon payment of Chapter dues. Membership in the Chapter by non-ASA members will be by approval of the Chapter Executive Committee, which may delegate this function of approval. The membership of this organization shall consist of two categories:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;em&gt;Regular Members&lt;/em&gt;: Persons admitted to memberships who hold Full membership in the American Statistical Association.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Student Members&lt;/em&gt;: Persons admitted to membership who are students in an accredited degree program and making satisfactory progress towards an undergraduate or graduate degree at a college or university located within the state of Virginia. This will include persons who are ASA student members. These members are not required to pay dues, and they will not be permitted to vote in Chapter matter. They may apply for Regular Membership if they choose to pay the annual dues.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&#34;article-iv-officers&#34;&gt;ARTICLE IV - OFFICERS&lt;/h2&gt;
+
+&lt;p&gt;The officers of the organization, who shall be Regular Members, shall be a President, Past President, Vice President, Treasurer, and Chapter Representative to the ASA Council of Chapters. These officers shall be Full members of ASA.&lt;/p&gt;
+
+&lt;h2 id=&#34;article-v-terms-of-office-and-elections&#34;&gt;ARTICLE V – TERMS OF OFFICE AND ELECTIONS&lt;/h2&gt;
+
+&lt;p&gt;A person elected as Vice President shall serve in succession a year each as Vice President, President, and Past President. The Treasurer will serve a two-year term. The Chapter Representative shall serve a three-year term with the dates determined by the ASA Council of Chapters rotation pattern. The Nominating Committee shall annually select candidates for the Vice President and whichever other position, Treasurer and/or Chapter Representative, is scheduled for election that year. The Treasurer is eligible for re-nomination to the same position without limit. The Past President shall not be eligible for immediate renomination as Vice President. At least two candidates should be presented for the Vice President position. However, since continuity is desirable in the Treasurer, the Nominating Committee might present only one name for that position. A ballot should be delivered to all regular members on the Chapter rolls at the time of the election. The election results shall be reported at the Annual Meeting.&lt;/p&gt;
+
+&lt;h2 id=&#34;article-vi-executive-committee&#34;&gt;ARTICLE VI - EXECUTIVE COMMITTEE&lt;/h2&gt;
+
+&lt;p&gt;The Executive Committee shall consist of the officers described in Article IV and the Chairs of each of the standing committees who are not Chapters officers.&lt;/p&gt;
+
+&lt;h2 id=&#34;article-vii-standing-committees&#34;&gt;ARTICLE VII - STANDING COMMITTEES&lt;/h2&gt;
+
+&lt;p&gt;The Chapter shall consist of the six committees described below and of such special committees as appointed by the President. Except as noted below, chairs of the standing committees will be appointed by the President and shall serve until their successors are appointed. The President, in conjunction with each committee chair, shall also appoint members of each committee. The six Standing Committees shall be:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Arrangements&lt;/strong&gt; - with the Treasurer as chair, to make necessary reservations and arrangements for technical and social meetings of the Chapter.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Education&lt;/strong&gt; - to handle requests from outside groups for speakers on statistics and to supervise Chapter educational activities, including quantitative literacy efforts with private and public schools.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Membership&lt;/strong&gt; - to encourage local individual memberships.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Nominating&lt;/strong&gt; - with the Past-president as chair, to present a list of nominees for all elective offices.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Program&lt;/strong&gt; - with the Vice President as chair, to schedule the meetings and speakers for the term of office of the Vice President.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Publicity&lt;/strong&gt; – with the ASA Chapter Representative as chair to inform the American Statistical Association and the public of the significant activities of the Chapter.&lt;br /&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&#34;article-viii-meetings&#34;&gt;ARTICLE VIII - MEETINGS&lt;/h2&gt;
+
+&lt;p&gt;There shall be at least two regular meetings each Chapter Year, including an Annual Meeting and a Business Meeting. The Chapter Year shall run from January through December of each year. The Annual Meeting will be open to all Chapter members, with a location set at the previous Business Meeting. . The Business Meeting will be scheduled at the Annual Meeting by the newly elected Officers, as described in Articles IV and V above.&lt;/p&gt;
+
+&lt;h2 id=&#34;article-ix-finance&#34;&gt;ARTICLE IX - FINANCE&lt;/h2&gt;
+
+&lt;p&gt;The amount of the annual Chapter dues, for Regular Members, shall be recommended by the Executive Committee and approved by a majority of members voting at the annual meeting of this organization. The proposed dues changes shall have been sent to each Regular Member at least two weeks prior to the date of the meeting. A response from a member will be considered the same as the vote of a member attending the meeting. Each time a new Treasurer takes office, the President shall appoint at least two Auditors who will audit the outgoing Treasurer&amp;rsquo;s books. In addition, an audit will be performed whenever a Treasurer is reelected and three years or more have elapsed since the last audit. The Auditors shall submit a written report of their findings to the Membership no more than three months following their appointment. The auditors need not be affiliated with an official auditing firm.&lt;/p&gt;
+
+&lt;h2 id=&#34;article-x-national-constitution&#34;&gt;ARTICLE X – NATIONAL CONSTITUTION&lt;/h2&gt;
+
+&lt;p&gt;Any and all applicable provisions of the Constitution of the American Statistical Association shall be considered a part of this Chapter Constitution.&lt;/p&gt;
+
+&lt;h2 id=&#34;article-xi-dissolution&#34;&gt;ARTICLE XI – DISSOLUTION&lt;/h2&gt;
+
+&lt;p&gt;Upon the dissolution of the Chapter, assets shall be distributed to the ASA as determined by the Executive Committee at the time of such dissolution. Proceeds thereof may be used by the American Statistical Association, 1429 Duke Street, Alexandria, Virginia 22314. Such usage is restricted to one or more exempt purposes pursuant to Section 501( c ) (3) of the Internal Revenue Code of 1954, or corresponding Section of any future Federal tax code.&lt;/p&gt;
+</description>
+		</item>
+		
+		<item>
+			<title>About us</title>
+			<link>/about/</link>
+			<pubDate>Sat, 15 Dec 2018 00:00:00 UTC</pubDate>
+			<author></author>
+			<guid>/about/</guid>
+			<description>
+
+&lt;h1 id=&#34;our-mission&#34;&gt;Our Mission&lt;/h1&gt;
+
+&lt;p&gt;The purpose of our organization is to encourage the use and appreciation of Statistics and its applications, and to facilitate interaction among all persons having an interest in or being concerned with the field of Statistics.&lt;/p&gt;
+</description>
+		</item>
+		
+		<item>
+			<title>About us</title>
+			<link>/search/</link>
+			<pubDate>Sat, 15 Dec 2018 00:00:00 UTC</pubDate>
+			<author></author>
+			<guid>/search/</guid>
+			<description>
+
+&lt;h1 id=&#34;our-mission&#34;&gt;Our Mission&lt;/h1&gt;
+
+&lt;p&gt;The purpose of our organization is to encourage the use and appreciation of Statistics and its applications, and to facilitate interaction among all persons having an interest in or being concerned with the field of Statistics.&lt;/p&gt;
+</description>
+		</item>
 		
 		<item>
 			<title>Coming soon</title>
@@ -16,6 +175,42 @@
 			<author></author>
 			<guid>/post/2018-12-15-coming-soon/</guid>
 			<description>&lt;p&gt;This is the prototype of the web site for the Virginia chapter of American Statistical Association.&lt;/p&gt;
+</description>
+		</item>
+		
+		<item>
+			<title>Membership</title>
+			<link>/membership/</link>
+			<pubDate>Sat, 15 Dec 2018 00:00:00 UTC</pubDate>
+			<author></author>
+			<guid>/membership/</guid>
+			<description>
+
+&lt;h1 id=&#34;how-to-become-a-member-of-virginia-asa-chapter&#34;&gt;How to become a member of Virginia ASA chapter&lt;/h1&gt;
+
+&lt;p&gt;Coming soon&lt;/p&gt;
+
+&lt;form action=&#34;https://www.paypal.com/cgi-bin/webscr&#34; method=&#34;post&#34;&gt;
+
+  &lt;!-- Identify your business so that you can collect the payments. --&gt;
+  &lt;input type=&#34;hidden&#34; name=&#34;business&#34; value=&#34;herschelgomez@xyzzyu.com&#34;&gt;
+
+  &lt;!-- Specify a Buy Now button. --&gt;
+  &lt;input type=&#34;hidden&#34; name=&#34;cmd&#34; value=&#34;_xclick&#34;&gt;
+
+  &lt;!-- Specify details about the item that buyers will purchase. --&gt;
+  &lt;input type=&#34;hidden&#34; name=&#34;item_name&#34; value=&#34;Hot Sauce-12oz. Bottle&#34;&gt;
+  &lt;input type=&#34;hidden&#34; name=&#34;amount&#34; value=&#34;5.95&#34;&gt;
+  &lt;input type=&#34;hidden&#34; name=&#34;currency_code&#34; value=&#34;USD&#34;&gt;
+
+  &lt;!-- Display the payment button. --&gt;
+  &lt;input type=&#34;image&#34; name=&#34;submit&#34; border=&#34;0&#34;
+  src=&#34;https://www.paypalobjects.com/en_US/i/btn/btn_buynow_LG.gif&#34;
+  alt=&#34;Buy Now&#34;&gt;
+  &lt;img alt=&#34;&#34; border=&#34;0&#34; width=&#34;1&#34; height=&#34;1&#34;
+  src=&#34;https://www.paypalobjects.com/en_US/i/scr/pixel.gif&#34; &gt;
+
+&lt;/form&gt;
 </description>
 		</item>
 		

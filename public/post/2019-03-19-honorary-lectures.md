@@ -3,9 +3,9 @@
 	<head>
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
-		<title>Categories &bullet; The American Statistical Association | Virginia Chapter</title>
+		<title>Honorary Guest Lecturers</title>
 		<link rel="alternate" type="application/rss+xml" title="RSS" href="/index.xml">
-		<link rel="canonical" href="/categories/">
+		<link rel="canonical" href="/post/2019-03-19-honorary-lectures.md">
 		
 		<link rel="shortcut icon" type="image/png" href="/apple-touch-icon-precomposed.png">
 		
@@ -13,7 +13,15 @@
 		<meta name="generator" content="Hugo 0.52" />
 
 		
-		
+		<meta name="og:title" content="Honorary Guest Lecturers" />
+		<meta name="og:type" content="article" />
+		<meta name="og:image" content="/img/default-header-img.jpg" />
+		<meta name="og:description" content="" />
+		<meta name="og:url" content="/post/2019-03-19-honorary-lectures.md" />
+		<meta name="og:site_name" content="Honorary Guest Lecturers" />
+		<meta name="twitter:card" content="summary_large_image" />
+		<meta name="twitter:site" content="@" />
+
 
 		
 		<link rel="stylesheet" href="/css/tachyons.min.css" />
@@ -29,7 +37,7 @@
 		<script src="/js/story.js"></script>
 
 	</head>
-	<body class="ma0 bg-white section-categories page-kind-taxonomyTerm is-page-false ">
+	<body class="ma0 bg-white section-post page-kind-page is-page-true ">
 		
 		<header class="cover bg-top" style="background-image: url('/img/default-header-img.jpg'); background-position: center;">
 			<div class="bg-black-30 bb bt">
@@ -48,10 +56,16 @@
 				</nav>
 
 				<div id="hdr" class="tc-l pv4-ns pv5-l pv2 ph3 ph4-ns">
-					<h1 class="near-white mt1-ns f2 fw3 mb0 mt0 lh-title">Categories</h1>
+					<h1 class="near-white mt1-ns f2 fw3 mb0 mt0 lh-title">Honorary Guest Lecturers</h1>
 					<h2 class="near-white mt3-l mb4-l fw1 f6 f3-l measure-wide-l center lh-copy mt2 mb3">
 						
 						
+							
+								Published
+								<time datetime="2019-03-19T00:00:00Z">Mar 19, 2019</time>
+								<span class="display-print">by Roy Sabo</span>
+								 in <a href="/categories//announcement" class="no-underline category near-white dim">Announcement</a>
+								<span class="display-print">at /post/2019-03-19-honorary-lectures.md</span>
 							
 						
 					</h2>
@@ -67,41 +81,22 @@
 		
 		<main role="main">
 		
-<div class="pa3 pa4-ns w-100 w-70-ns center">
-  <section class="w-100 mw8">
-  
-  
-  
-    
-      <div class="relative w-100">
-	<article class="bb b--black-10">
-		<div class="db pv4 ph3 ph0-l no-underline dark-gray">
-			<div class="flex flex-column flex-row-ns">
-				
-				<div class="mb4 mb0-ns w-100 h4 h4-m w4-m h5-ns w5-ns br3 cover hide-child" style="background-image: url('/img/default-header-img.tn-500x500.jpg'); background-position: center;">
-					<a href="/categories/announcement/" class="db child w-100 h-100 f7 lh-copy white no-underline br3 ph3 pt4 pt5-l ttu tc bg-black-60">
-						<i class="mt3 mt5-l child far fa-calendar-alt"> Mar 19, 2019</i>
-					</a>
-				</div>
-				
-				<div class="w-100 w6-ns pl3-ns">
-					<h1 class="f3 fw1 mt0 lh-title"><a href="/categories/announcement/" class="color-inherit dim link">Announcement</a></h1>
-					<div class="f6 f5-l lh-copy nested-copy-line-height nested-links">
-						
-							
-							<p class="pa0 sans-serif f7"><a class="ba br3 pa2 link" href="/categories/announcement/">Continue Reading <i class="fas fa-chevron-circle-right"></i></a></p>
-						
-					</div>
-				</div>
-			</div>
-		</div>
-	</article>
-</div>
+<article class="center bg-white br-3 pv1 ph4 nested-copy-line-height lh-copy f4 nested-links mw-100 measure-wide">
+	
 
-    
-  
-  </section>
-</div>
+<h1 id="a-list-of-honorary-guest-lecturers-from-the-past-few-years">A list of Honorary Guest Lecturers from the past few years:</h1>
+
+<ul>
+<li><p><strong>2018, Ronald D. Fricker, Ph.D.</strong>, Professor and Department Head, Department of Statistics, Virginia Polytechnic Institute and State University.</p></li>
+
+<li><p><strong>2016, Karen Khafadar, Ph.D.</strong>, Commonwealth Professor and Chair, Department of Statistics, University of Virginia. Title: &ldquo;Detecting tiny signals in massive data from high-energy physics.&rdquo;&rdquo;</p>
+
+<ul>
+<li><strong>Abstract:</strong> Experiments in high-energy physics provide terabytes of data, from which critical information about the state of matter, governed by the theory outlined in the &ldquo;Standard Model&rdquo;, must be extracted.  Opportunities abound for increased efficiencies in approaches to the data, from the design of experiments, to the collection of data, and finally to analysis and inference.  Due to the massive amounts of data, from various sources (different experiments from different collaborations, experiment-based simulations, etc.), new ways of analyzing the data to answer questions of interest are devised. This talk describes the framework for these experiments and illustrates methods for analyzing massive data sets from such experiments (with some mention of data sets from genomics and the Internet).</li>
+</ul></li>
+</ul>
+
+</article>
 
 		</main>
 		
@@ -109,6 +104,9 @@
 		<div class="about-the-author">
 		
 			
+			
+				
+					
 				
 			
 		
@@ -118,11 +116,6 @@
 
 		
 		
-<footer class="w-100 sans-serif" role="contentinfo">
-	<nav class="w-third-l pb3 f6 center db" role="navigation">
-</nav>
-</footer>
-
 		
 		<footer class="hide-print sans-serif f6 fw1 bg-black near-white bottom-0 w-100 pa3" role="contentinfo">
 			<p class="w-50 fr tr">

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Presentations on The American Statistical Association | Virginia Chapter</title>
+    <link>/tags/presentations/</link>
+    <description>Recent content in Presentations on The American Statistical Association | Virginia Chapter</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 19 Mar 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/presentations/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Outstanding Student Presentations</title>
+      <link>/post/2019-03-19-outstanding-presentations.md</link>
+      <pubDate>Tue, 19 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2019-03-19-outstanding-presentations.md</guid>
+      <description>2018 recipients of the Award for Annual Meeting Outstanding Student Presentations Mohammed Alqawba Title: Copula Based Models for Zero-Inflated Count Time Series
+Abstract: Count time series data are observed in several applied disciplines such as in environmental field, biostatistics, economics, public health, and finance. In some cases, a specific count, say zero, may occur more often than usual. Overlooking the frequent occurrence of zeros could lead to false inference. In this presentation, we develop a copula-based time series model for zero-inflated counts with the presence of covariates.</description>
+    </item>
+    
+  </channel>
+</rss>
