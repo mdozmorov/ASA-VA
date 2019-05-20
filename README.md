@@ -8,7 +8,7 @@ https://asa-va.netlify.com/
 ## Building web site
 
 - Copy the `*.md` files in the `static` folder into the `content` folder.
-- Edit te `*.md` files in the `content` folder.
+- Edit the `*.md` files in the `content` folder.
 - `blogdown::serve_site()` will build the site in the `public` folder and serve it. Any changes will trigger rebuilding. Note folders with the same names as the `*.md` files appear in the `public` folder.
 - `blogdown::stop_server()` will stop the server
 - Move the `*.md` files from the `content` folder to the `static` folder. This will ensure these `*.md` files are compiled as pages, not as blog posts.
