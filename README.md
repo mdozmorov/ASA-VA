@@ -7,6 +7,8 @@ https://asa-va.netlify.com/
 
 ## Building web site
 
+- Use `hugo -d ./public` to rebuild public folder. Per [this issue](https://github.com/rstudio/blogdown/issues/495)
+
 - Copy the `*.md` files in the `static` folder into the `content` folder.
 - Edit the `*.md` files in the `content` folder.
 - `blogdown::serve_site()` will build the site in the `public` folder and serve it. Any changes will trigger rebuilding. Note folders with the same names as the `*.md` files appear in the `public` folder.
