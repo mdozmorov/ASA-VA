@@ -6,7 +6,7 @@ slug: ASA-VA-2021
 categories:
   - Announcement
 tags: []
-url: /post/2021-09-14-ASA-VA-2021-meeting
+url: /post/2021-09-14-ASA-VA-meeting
 description: ''
 tldr: ''
 image: ''
