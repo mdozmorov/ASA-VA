@@ -5,142 +5,16 @@
 		<generator>Hugo -- gohugo.io</generator>
 		<language>en-us</language>
 		<author></author>
-		<rights>Copyright (c) 2019</rights>
-		<updated>2019-10-29 00:00:00 &#43;0000 UTC</updated>
+		<rights>Copyright (c) 2021</rights>
+		<updated>2021-09-14 00:00:00 &#43;0000 UTC</updated>
 		
 		<item>
-			<title>Slides from the ASA VA 2019 meeting</title>
-			<link>/post/2019-10-29-16-asa-va-slides/</link>
-			<pubDate>Tue, 29 Oct 2019 00:00:00 UTC</pubDate>
+			<title>Posts</title>
+			<link>/post/</link>
+			<pubDate>Tue, 14 Sep 2021 00:00:00 UTC</pubDate>
 			<author></author>
-			<guid>/post/2019-10-29-16-asa-va-slides/</guid>
-			<description>&lt;p&gt;The annual meeting of the Virginia Chapter of the American Statistical Association was held at the University of Virginia, Charlottesville, VA, on Friday, October 25, 2019. Two keynote speakers, &lt;a href=&#34;https://statistics.as.virginia.edu/faculty-staff/profile/kk3ab&#34;&gt;Dr. Karen Kafadar&lt;/a&gt;, Commonwealth Professor and Chair of the University of Virginia Department of Statistics, and the president of the American Statistical Association, and &lt;a href=&#34;https://www.med.upenn.edu/apps/faculty/index.php/g275/p4930413&#34;&gt;Dr. Susan Ellenberg&lt;/a&gt;, Professor of Biostatistics in the University of Pennsylvania, delivered outstanding lectures. The slides of their presentations are available.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Dr. Karen Kafadar, &lt;a href=&#34;../../files/ASA-KK-102519.pdf&#34;&gt;ASA, Statistics, and “Data Science”: Making an Impact&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Dr. Susan Ellenberg, &lt;a href=&#34;../../files/uva.oct252019.pdf&#34;&gt;STATISTICIANS AND THE EVOLUTION OF THE RANDOMIZED CLINICAL TRIAL&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-		</item>
-		
-		<item>
-			<title>ASA VA 2019 meeting program</title>
-			<link>/post/2019-10-19-16-asa-va-program/</link>
-			<pubDate>Sat, 19 Oct 2019 00:00:00 UTC</pubDate>
-			<author></author>
-			<guid>/post/2019-10-19-16-asa-va-program/</guid>
-			<description>&lt;p&gt;The Virginia Chapter of the American Statistical Association will hold its annual meeting at the University of Virginia, Charlottesville, VA, on Friday, October 25, 2019. See &lt;a href=&#34;../2019-09-16-asa-va-meeting/&#34;&gt;ASA VA 2019 meeting announcement and call for abstracts post&lt;/a&gt; for details. The full program is now available, right-click, save as to download.  &lt;a href=&#34;../../assets/VA-ASA Agenda.pdf&#34;&gt;Program PDF&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;WiFi instructions:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Select the &amp;ldquo;UVA Guest&amp;rdquo; wifi network.&lt;/li&gt;
-&lt;li&gt;A pop-up window should open automatically. If pop-up doesn’t appear, open a browser and visit &lt;a href=&#34;http://in.virginia.edu/guest&#34;&gt;http://in.virginia.edu/guest&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Click “Connect Now” (under self-service) to agree to the terms and get wifi.&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-		</item>
-		
-		<item>
-			<title>ASA VA 2019 meeting announcement and call for abstracts</title>
-			<link>/post/2019-09-16-asa-va-meeting/</link>
-			<pubDate>Mon, 16 Sep 2019 00:00:00 UTC</pubDate>
-			<author></author>
-			<guid>/post/2019-09-16-asa-va-meeting/</guid>
-			<description>&lt;p&gt;The Virginia Chapter of the American Statistical Association will hold its annual meeting at the University of Virginia, Charlottesville, VA, on Friday, October 25, 2019. We are pleased to announce that &lt;a href=&#34;https://www.med.upenn.edu/apps/faculty/index.php/g275/p4930413&#34;&gt;Dr. Susan Ellenberg&lt;/a&gt;, Professor of Biostatistics in the University of Pennsylvania Department of Biostatistics and Epidemiology, will deliver the Honorary Guest Lecture. American Statistical Association President &lt;a href=&#34;https://statistics.as.virginia.edu/faculty-staff/profile/kk3ab&#34;&gt;Dr. Karen Kafadar&lt;/a&gt;, Commonwealth Professor and Chair of the University of Virginia Department of Statistics, will also deliver a Guest Lecture.&lt;/p&gt;
-
-&lt;p&gt;We are currently accepting abstracts for consideration of oral and poster presentations, see the &lt;a href=&#34;/program/&#34;&gt;program&lt;/a&gt; for details. Abstracts may focus on current and novel topics in statistics, biostatistics, genomics, bioinformatics or other related fields. ASA and Chapter members, industry professionals, academic faculty, and both undergraduate and graduate students within the Commonwealth of Virginia are especially encouraged to submit an abstract, though all are welcome to attend. Please submit your titles, abstracts and affiliations via the following Virginia Chapter website (which can be accessed &lt;a href=&#34;http://bit.ly/asava2019&#34;&gt;here&lt;/a&gt;) by September 27, 2019. Decisions on accepted presentations and posters will be made shortly thereafter. Please direct questions and inquiries to Roy T. Sabo, Ph.D. (&lt;a href = &#34;mailto:roy.sabo@vcuhealth.org?subject = Feedback&amp;body = Message&#34;&gt;roy.sabo@vcuhealth.org&lt;/a&gt;), regarding abstract submissions and to Jeffrey Woo, Ph.D., (&lt;a href = &#34;mailto:yjw4b@virginia.edu?subject = Feedback&amp;body = Message&#34;&gt;yjw4b@virginia.edu&lt;/a&gt;), regarding travel and accommodations.&lt;/p&gt;
-
-&lt;p&gt;All attendees and presenters can register on site ($10 registration fee for students; $20 registration fee for professionals and faculty) to help support the Chapter and so that we can provide light refreshments. Additional notices will be sent as we approach the meeting, including specific details on the agenda, registration, and parking.&lt;/p&gt;
-
-&lt;p&gt;Key links: &lt;a href=&#34;/program/&#34;&gt;Program&lt;/a&gt;, &lt;a href=&#34;http://bit.ly/asava2019&#34;&gt;Abstract submission form&lt;/a&gt;&lt;/p&gt;
-</description>
-		</item>
-		
-		<item>
-			<title>ASA VA 2019 keynote speakers</title>
-			<link>/post/2019-09-09-asa-va-keynotes/</link>
-			<pubDate>Mon, 09 Sep 2019 00:00:00 UTC</pubDate>
-			<author></author>
-			<guid>/post/2019-09-09-asa-va-keynotes/</guid>
-			<description>&lt;p&gt;Keynotes for the VA American Statistical Association 2019 Annual Meeting are announced!
-&lt;div&gt;&lt;/div&gt;
-&lt;img src=&#34;https://as.virginia.edu/sites/as.virginia.edu/files/styles/headshot/public/images/headshots/CHAIR%20-%20Kadafer.jpg?itok=qH5c-Ff7&#34; width=&#34;100px&#34; style=&#34;padding: 0 15px; float: left;&#34; /&gt;
-&lt;a href=&#34;https://statistics.as.virginia.edu/faculty-staff/profile/kk3ab&#34;&gt;Dr. Karen Kafadar&lt;/a&gt;, Professor of Statistics at the University of Virginia and the president of the American Statistical Association for the 2019 term, and
-&lt;div&gt;&lt;/div&gt;
-&lt;img src=&#34;https://www.med.upenn.edu/apps/my/images/faculty_pics/elle7913.jpg&#34; width=&#34;100px&#34; style=&#34;padding: 0 15px; float: left;&#34; /&gt;
-&lt;a href=&#34;https://www.med.upenn.edu/apps/faculty/index.php/g275/p4930413&#34;&gt;Dr. Susan Ellenberg&lt;/a&gt;, Professor of Biostatistics in Biostatistics and Epidemiology at the Hospital of the University of Pennsylvania will give opening/closing presentations on October 25th, at the University of Virginia in Charlottesville.&lt;/p&gt;
-
-&lt;p&gt;Information on the submission of abstracts for oral and poster presentations will be announced soon, as will details for registration, parking and lodging.&lt;/p&gt;
-</description>
-		</item>
-		
-		<item>
-			<title>ASA VA 2019 Annual Meeting</title>
-			<link>/post/2019-05-30-asa-va-meeting/</link>
-			<pubDate>Thu, 30 May 2019 00:00:00 UTC</pubDate>
-			<author></author>
-			<guid>/post/2019-05-30-asa-va-meeting/</guid>
-			<description>&lt;p&gt;The Virginia Chapter of the American Statistical Association 2019 Annual Meeting will be held Friday, October 25th, at the University of Virginia in Charlottesville.&lt;/p&gt;
-
-&lt;p&gt;Information on the submission of abstracts for oral and poster presentations will be given soon, as will details for registration, parking and lodging.&lt;/p&gt;
-</description>
-		</item>
-		
-		<item>
-			<title>Honorary Guest Lecturers</title>
-			<link>/post/2019-03-19-honorary-lectures/</link>
-			<pubDate>Tue, 19 Mar 2019 00:00:00 UTC</pubDate>
-			<author></author>
-			<guid>/post/2019-03-19-honorary-lectures/</guid>
-			<description>
-
-&lt;h1 id=&#34;a-list-of-honorary-guest-lecturers-from-the-past-few-years&#34;&gt;A list of Honorary Guest Lecturers from the past few years&lt;/h1&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;2018, Ronald D. Fricker, Ph.D.&lt;/strong&gt;, Professor and Department Head, Department of Statistics, Virginia Polytechnic Institute and State University.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;2016, Karen Khafadar, Ph.D.&lt;/strong&gt;, Commonwealth Professor and Chair, Department of Statistics, University of Virginia. Title: &amp;ldquo;Detecting tiny signals in massive data from high-energy physics.&amp;rdquo;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Experiments in high-energy physics provide terabytes of data, from which critical information about the state of matter, governed by the theory outlined in the &amp;ldquo;Standard Model&amp;rdquo;, must be extracted.  Opportunities abound for increased efficiencies in approaches to the data, from the design of experiments, to the collection of data, and finally to analysis and inference.  Due to the massive amounts of data, from various sources (different experiments from different collaborations, experiment-based simulations, etc.), new ways of analyzing the data to answer questions of interest are devised. This talk describes the framework for these experiments and illustrates methods for analyzing massive data sets from such experiments (with some mention of data sets from genomics and the Internet).&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-		</item>
-		
-		<item>
-			<title>Outstanding Student Presentations</title>
-			<link>/post/2019-03-19-outstanding-presentations/</link>
-			<pubDate>Tue, 19 Mar 2019 00:00:00 UTC</pubDate>
-			<author></author>
-			<guid>/post/2019-03-19-outstanding-presentations/</guid>
-			<description>
-
-&lt;h1 id=&#34;2018-recipients-of-the-award-for-annual-meeting-outstanding-student-presentations&#34;&gt;2018 recipients of the Award for Annual Meeting Outstanding Student Presentations&lt;/h1&gt;
-
-&lt;h3 id=&#34;mohammed-alqawba&#34;&gt;Mohammed Alqawba&lt;/h3&gt;
-
-&lt;p&gt;&lt;strong&gt;Title:&lt;/strong&gt; Copula Based Models for Zero-Inflated Count Time Series&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Count time series data are observed in several applied disciplines such as in environmental field, biostatistics, economics, public health, and finance. In some cases, a specific count, say zero, may occur more often than usual. Overlooking the frequent occurrence of zeros could lead to false inference. In this presentation, we develop a copula-based time series model for zero-inflated counts with the presence of covariates. Zero-inflated Poisson (ZIP), zero-inflated negative Binomial (ZINB), and zero-inflated Conway-Maxwell-Poisson (ZICMP) distributed marginals will be considered, while the joint distribution is modeled under Gaussian copula with autoregression moving average (ARMA) errors. Importance sampling likelihood inference is utilized. Prediction, and forecasting are carried out in an analogous style to an ordinary ARMA model. To evaluate the proposed method, simulated and real-life data examples are provided and studied.&lt;/p&gt;
-
-&lt;h3 id=&#34;kellen-cresswell&#34;&gt;Kellen Cresswell&lt;/h3&gt;
-
-&lt;p&gt;&lt;strong&gt;Title:&lt;/strong&gt; Detection of the 3D genomic structures using spectral clustering&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Background. Recent advances in genome sequencing have given us the ability to analyze the 3D organization of the genome. Topologically associating domains (TADs) are distinct units of the genome confined in 3D space and characterized by strong interactions among regions within them. These structures have been shown to be highly associated with regulation of gene expression, defining the identity of the cells. Despite their apparent importance, there is no consensus method for detecting TADs. Methods. We propose a novel, spectral clustering-based approach to solve this problem. Using a sliding window based on the maximum biologically possible TAD size, we move along the diagonal of the matrix performing spectral clustering. The number of clusters in each window is chosen by finding the number of clusters that maximizes the average silhouette score. Silhouette score is a method for measuring the level of connectivity within a TAD while penalizing for high connectivity between TADs. Results. We show this method is robust to issues specific to 3D sequencing data such as sparsity, sequencing depth and the resolution of the data. We also show that by using a windowed approach, we transform spectral clustering from a problem with cubic computational complexity to one with linear complexity. The method is extended to allow for hierarchical clustering and the separation of TADs into smaller sub-TADs enclosed in large meta-TADs. Finally, the biological relevance is tested based on the proximity of boundaries to known epigenomic marks and transcription factor binding sites. Conclusions. Current methods for defining the fundamental 3D units of the genome, such as TADs, remain to be improved. We demonstrate that treating chromatin interaction data as a graph clustering problem improves robustness of TAD boundary detection in terms of sensitivity to noise, sparsity, sequencing depth of the data. We present a fast and accurate R package SpectralTAD that outperforms other TAD callers in detecting biologically relevant TAD boundaries.&lt;/p&gt;
-</description>
-		</item>
-		
-		<item>
-			<title>Coming soon</title>
-			<link>/post/2018-12-15-coming-soon/</link>
-			<pubDate>Sat, 15 Dec 2018 00:00:00 UTC</pubDate>
-			<author></author>
-			<guid>/post/2018-12-15-coming-soon/</guid>
-			<description>&lt;p&gt;This is the prototype of the web site for the Virginia chapter of American Statistical Association.&lt;/p&gt;
-</description>
+			<guid>/post/</guid>
+			<description></description>
 		</item>
 		
 	</channel>
